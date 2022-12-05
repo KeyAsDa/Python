@@ -41,5 +41,3 @@ while True:
     if (a != "yes"):
         break;
 print("Tam biet")
-
-
